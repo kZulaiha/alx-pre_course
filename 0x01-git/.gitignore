@@ -1,1 +1,1 @@
-echo "¬" > .gitignore
+echo "~" > .gitignore
