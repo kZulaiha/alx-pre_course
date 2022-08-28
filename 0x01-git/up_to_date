@@ -1,3 +1,1 @@
-touch
-echo 'touch'
-echo 'mkdir'
+echo "git pull" > up_to_date
